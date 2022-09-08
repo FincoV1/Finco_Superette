@@ -12,15 +12,15 @@ client_scripts {
     "src/menu/items/*.lua",
     "src/menu/panels/*.lua",
     "src/menu/windows/*.lua",
-    "ltd/f_client.lua",
+    "f_client.lua",
 }
 
 server_scripts {
-    "ltd/f_server.lua",
+    "f_server.lua",
 }
 
 
-###finco mon gars
+
 
 
 
